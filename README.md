@@ -25,7 +25,7 @@ This project evaluates the performance of **Linear Regression, Neural Networks, 
 |-------|------------|-------|
 | **Neural Network** | Deep learning model for complex patterns | ![NN](https://upload.wikimedia.org/wikipedia/commons/e/e4/Artificial_neural_network.svg) |
 | **Linear Regression** | Simple yet effective model for linear relationships | ![Linear Regression](https://upload.wikimedia.org/wikipedia/commons/3/3a/Linear_regression.svg) |
-| **XGBoost** | Gradient boosting model for structured data | ![XGBoost](https://upload.wikimedia.org/wikipedia/commons/a/a3/XGBoost_logo.png) |
+| **XGBoost** | Gradient boosting model for structured data | ![XGBoost]([https://upload.wikimedia.org/wikipedia/commons/a/a3/XGBoost_logo.png](https://xgboost.ai/images/logo/xgboost-logo-trimmed.png)) |
 
 
 
