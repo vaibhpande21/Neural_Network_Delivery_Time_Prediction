@@ -21,11 +21,12 @@ This project evaluates the performance of **Linear Regression, Neural Networks, 
 
 ## 🤖 Models Used
 
-| Model | Description |
-|-------|------------|
-| ![Neural Network](https://img.shields.io/badge/Neural%20Network-0A192F?style=for-the-badge&logo=deeplearning&logoColor=white) | Deep learning model for predictions |
-| ![Linear Regression](https://img.shields.io/badge/Linear%20Regression-0033A0?style=for-the-badge&logo=regression&logoColor=white) | Simple yet effective linear model |
-| ![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge&logo=xgboost&logoColor=white) | Gradient boosting model |
+| Model | Description | Image |
+|-------|------------|-------|
+| **Neural Network** | Deep learning model for complex patterns | ![NN](https://upload.wikimedia.org/wikipedia/commons/6/60/Artificial_neural_network.svg) |
+| **Linear Regression** | Simple yet effective model for linear relationships | ![Linear Regression](https://upload.wikimedia.org/wikipedia/commons/3/3a/Linear_regression.svg) |
+| **XGBoost** | Gradient boosting model for structured data | ![XGBoost](https://upload.wikimedia.org/wikipedia/commons/e/eb/XGBoost_logo.png) |
+
 
 ## 📊 Model Performance
 
@@ -45,13 +46,6 @@ This project evaluates the performance of **Linear Regression, Neural Networks, 
 4. [Data Dictionary](#data-dictionary)
 5. [Features](#features)
 6. [Methodology](#methodology)
-7. [Installation](#installation)
-8. [Usage](#usage)
-9. [Tools Used](#tools-used)
-10. [Contributing](#contributing)
-11. [License](#license)
-12. [FAQs](#faqs)
-13. [Acknowledgments](#acknowledgments)
 
 ---
 
