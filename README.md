@@ -11,21 +11,41 @@ This project evaluates the performance of **Linear Regression, Neural Networks, 
 
 | Library | Description |
 |---------|------------|
-| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | Numerical computing library |
-| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | Data manipulation & analysis |
-| ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white) | Data visualization library |
-| ![Seaborn](https://img.shields.io/badge/Seaborn-008080?style=for-the-badge&logo=python&logoColor=white) | Statistical data visualization |
-| ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | Machine learning library |
-| ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | Deep learning framework |
-| ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) | Neural network API |
 
-## 🤖 Models Used
+- **NumPy**: A fundamental package for scientific computing with Python.
+  ![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 
-| Model | Description | Image |
-|-------|------------|-------|
-| **Neural Network** | Deep learning model for complex patterns | ![NN](https://upload.wikimedia.org/wikipedia/commons/e/e4/Artificial_neural_network.svg) |
-| **Linear Regression** | Simple yet effective model for linear relationships | ![Linear Regression](https://upload.wikimedia.org/wikipedia/commons/3/3a/Linear_regression.svg) |
-| **XGBoost** | Gradient boosting model for structured data | ![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge&logo=xgboost&logoColor=white) |
+- **Pandas**: A powerful data manipulation and analysis library.
+  ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+
+- **Matplotlib**: A comprehensive library for creating static, animated, and interactive visualizations.
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+- **Seaborn**: A statistical data visualization library based on Matplotlib.
+  ![Seaborn](https://img.shields.io/badge/Seaborn-0C7BB6?style=for-the-badge&logo=seaborn&logoColor=white)
+
+- **Scikit-learn**: A machine learning library for Python, built on NumPy, SciPy, and Matplotlib.
+  ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+- **TensorFlow**: An end-to-end open-source platform for machine learning.
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+- **Keras**: An open-source software library that provides a Python interface for artificial neural networks.
+  ![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+
+  ## 🤖 Models Used
+
+| Model | Description |
+|-------|------------|
+
+- **Neural Networks**: A set of algorithms, modeled loosely after the human brain, that is designed to recognize patterns.
+  ![Neural Network](https://img.shields.io/badge/Neural_Network-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+- **Linear Regression**: A linear approach to modeling the relationship between a scalar response and one or more explanatory variables.
+  ![Linear Regression](https://img.shields.io/badge/Linear_Regression-005571?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+- **XGBoost**: An optimized distributed gradient boosting library designed to be highly efficient, flexible, and portable.
+  ![XGBoost](https://img.shields.io/badge/XGBoost-3776AB?style=for-the-badge&logo=xgboost&logoColor=white)
 
 
 
