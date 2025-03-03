@@ -124,11 +124,11 @@ Key features used in the model:
 3. **Model Building**:
    - Built a Neural Network model with multiple dense layers, batch normalization, and leaky ReLU activations.
    - Used advanced techniques like learning rate scheduling and early stopping.
-   - Trained and evaluated the model using MAE and R?.
+   - Trained and evaluated the model using MAE and R².
 
 4. **Comparison with Other Models**:
    - Compared the NN model's performance with XGBoost and Linear Regression.
 
 
-The **Neural Network model** demonstrated the best performance, with the lowest MAE and a high R? score, indicating strong predictive accuracy and generalization.
+The **Neural Network model** demonstrated the best performance, with the lowest MAE and a high R² score, indicating strong predictive accuracy and generalization.
 ---
